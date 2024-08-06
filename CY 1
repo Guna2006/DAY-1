@@ -1,10 +1,10 @@
 import React,{useState} from 'react';
 import './App.css';
 const app2=()=>{
-  const name1="Aadharsh";
-  const name2="Aadharsh";
-  const obj1={name:"Aadharsh"}
-  const obj2={name:"Aadharsh"}
+  const name1="GUNA";
+  const name2="GUNA";
+  const obj1={name:"GUNA"}
+  const obj2={name:"GUNA"}
   if(name1===name2)
   {
     alert(true);
